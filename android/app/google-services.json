@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82831407",
+    "firebase_url": "https://loja-virtual-e371a.firebaseio.com",
+    "project_id": "loja-virtual-e371a",
+    "storage_bucket": "loja-virtual-e371a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82831407:android:6706bc9e0e31c590cb7eda",
+        "android_client_info": {
+          "package_name": "br.com.mvtelecom.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82831407-54n0pfs9nmva40qi6k6vq9cfvgjuef0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC86YjiJ5fVUcaVsr9P2cpjRWO3Xg19qSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82831407-54n0pfs9nmva40qi6k6vq9cfvgjuef0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
