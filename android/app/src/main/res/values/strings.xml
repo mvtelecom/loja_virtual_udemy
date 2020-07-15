@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loja do Daniel</string>
+
+    <string name="facebook_app_id">927103961125222</string>
+
+    <string name="fb_login_protocol_scheme">fb927103961125222</string>
+
+</resources>
